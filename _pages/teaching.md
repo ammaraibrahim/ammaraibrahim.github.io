@@ -33,7 +33,11 @@ I tutored wide range of courses from High School Math+Physics courses to advance
 
 ## Testimonies
 
-TBA
+* APSC 174, Linear Algebra, W25 
+    * &starf; &starf; &starf; &starf; &starf; 
+    > Ammar helped me visualize the problems, explained complex concepts simpler, and has a wide variety of knowledge in Electrical Engineering.
+    >
+    > Kelvin, First Year Electrical Engineering at Queen's University.
 
 ## Varsity Tutors
 
