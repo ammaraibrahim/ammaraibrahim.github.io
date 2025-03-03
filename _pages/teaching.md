@@ -25,7 +25,11 @@ redirect_from:
 
 ### Testimonies
 
-TBA
+* APSC 112, Electricity and Magnetism, W25 
+    * ★★★★★
+    > Your tremendous depth of knowledge and dedication made learning physics feel effortless. It's almost as if you possess a superhuman ability to illuminate even the most complex concepts. Thanks to your exceptional teaching and support, I felt fully prepared and incredibly confident going into my midterm, and I owe much of my success to you. Your influence and passion for the subject have completely transformed my perspective on physics. Thank you for being such an inspiring and extraordinary TA!
+    >
+    > Husayn, First Year Physics at Queen's University.
 
 # Tutoring Experience
 
